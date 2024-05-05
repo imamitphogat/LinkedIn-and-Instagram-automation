@@ -91,8 +91,8 @@ def main():
     user_groups = chunk_users(usernames, 10)
 
     accounts = [
-        {'username': 'ronak_boy_010', 'password': 'ronak@97852'},
-        {'username': 'educationwave.in', 'password': 'name@97852'},
+        {'username': '#id name', 'password': '#yopur password'},
+        {'username': '#id name', 'password': '#your password'},
         # Add more accounts as needed
     ]
 
